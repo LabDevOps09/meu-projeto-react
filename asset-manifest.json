@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LabDevOps09/meu-projeto-react.git/static/css/main.ac7cf16c.css",
+    "main.js": "/LabDevOps09/meu-projeto-react.git/static/js/main.c6ad4af5.js",
+    "index.html": "/LabDevOps09/meu-projeto-react.git/index.html",
+    "main.ac7cf16c.css.map": "/LabDevOps09/meu-projeto-react.git/static/css/main.ac7cf16c.css.map",
+    "main.c6ad4af5.js.map": "/LabDevOps09/meu-projeto-react.git/static/js/main.c6ad4af5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac7cf16c.css",
+    "static/js/main.c6ad4af5.js"
+  ]
+}
