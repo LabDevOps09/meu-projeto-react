@@ -1,6 +1,6 @@
 {
   "name": "meu-projeto-react",
-  "homepage": "https://github.com/LabDevOps09/meu-projeto-react.git"
+  "homepage": "https://github.com/LabDevOps09/meu-projeto-react.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
